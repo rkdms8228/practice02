@@ -6,7 +6,7 @@ public class Ex01 {
 		
 		int age = 15;
 		
-		if (age>0 && age<18) {
+		if(age>0 && age<18) {
 			System.out.println("청소년입니다.");
 		}
 		
