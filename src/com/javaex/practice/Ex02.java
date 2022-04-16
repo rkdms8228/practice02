@@ -6,7 +6,7 @@ public class Ex02 {
 		
 		int x = 0;
 		
-		if (x==0) {
+		if(x==0) {
 			System.out.println("x는 0이다.");
 		}
 		
